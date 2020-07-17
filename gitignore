@@ -1,0 +1,6 @@
+# ignore .vs
+.vs/
+# ingore Debag
+Debug/
+# ignore temp
+temp/
